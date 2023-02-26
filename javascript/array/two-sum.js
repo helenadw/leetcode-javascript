@@ -15,5 +15,3 @@ var twoSum = function(nums, target) {
         }
     }
 };
-
-// sort the array find first value equal to target and ignore rest
