@@ -64,9 +64,9 @@
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium |  |
 [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium |  |
 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |  |
-[Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/) |  |  |
-[Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/) |  |  |
-[Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  |  |
+[Alien Dictionary (Premium)](https://leetcode.com/problems/alien-dictionary/) |  |  |
+[Graph Valid Tree (Premium)](https://leetcode.com/problems/graph-valid-tree/) |  |  |
+[Number of Connected Components in an Undirected Graph (Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  |  |
 
 ---
 
@@ -77,8 +77,8 @@
 [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |  |
 [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |  |
 [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium |  |
-[Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/) |  |  |
-[Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
+[Meeting Rooms (Premium)](https://leetcode.com/problems/meeting-rooms/) |  |  |
+[Meeting Rooms II (Premium)](https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
 
 ---
 
@@ -119,7 +119,7 @@
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | Easy | ✅ |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |  |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |  |
-| [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |  |  |
+| [Encode and Decode Strings (Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |  |  |
 
 ---
 
