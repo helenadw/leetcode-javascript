@@ -2,7 +2,7 @@
 
 ## The challenge
 
-We are given two arguments, an array of intergers and a target value. We need to write a function that can reach the target value by summing two values in the array and then returning their indecies. We can assume that there will always be a pair of values that sum to the target, and that there will only be one possible correct answer.
+We are given two arguments, an array of intergers and a target value. We need to write a function that can reach the target value by summing two values in the array and then returning their indices. We can assume that there will always be a pair of values that sum to the target, and that there will only be one possible correct answer.
 
 For example, 
 
